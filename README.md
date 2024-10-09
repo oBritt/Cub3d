@@ -8,7 +8,7 @@ This project is about creating a "2.5D" game based on Wilfenstein 3D and we lear
 Everything is written in pure C.
 
 To run, just type
-git clone https://github.com/TomTris/42-Cub3d
+git clone https://github.com/oBritt/Cub3d
 cd 42-Cub3d
 make bonus
 
